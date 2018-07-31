@@ -15,6 +15,7 @@ filetype plugin indent on
 syntax on
 colors molokai
 set nobackup
+set noswapfile
 set formatoptions=tcqro
 set bsdir=buffer
 set foldmethod=syntax
