@@ -8,6 +8,8 @@ call vundle#begin()
     Plugin 'The-NERD-tree'
     Plugin 'Xuyuanp/nerdtree-git-plugin'
     Plugin 'docker/docker' , {'rtp': '/contrib/syntax/vim/'}
+    Plugin 'Valloric/YouCompleteMe'
+    Plugin 'rdnetto/YCM-Generator'
 call vundle#end()
 filetype plugin indent on
 
