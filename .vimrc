@@ -10,6 +10,7 @@ call vundle#begin()
     Plugin 'docker/docker' , {'rtp': '/contrib/syntax/vim/'}
     Plugin 'Valloric/YouCompleteMe'
     Plugin 'rdnetto/YCM-Generator'
+    Plugin 'mattn/emmet-vim'
 call vundle#end()
 filetype plugin indent on
 
