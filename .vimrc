@@ -30,6 +30,8 @@ set hls
 set backspace=indent,eol,start
 set fileencodings=utf-8,gbk
 set mouse=a
+set ignorecase
+set smartcase
 
 " tab & indent
 set tabstop=4
