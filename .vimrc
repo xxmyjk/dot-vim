@@ -7,10 +7,10 @@ call vundle#begin()
     Plugin 'molokai'
     Plugin 'The-NERD-tree'
     Plugin 'Xuyuanp/nerdtree-git-plugin'
-    Plugin 'docker/docker' , {'rtp': '/contrib/syntax/vim/'}
     Plugin 'Valloric/YouCompleteMe'
     Plugin 'rdnetto/YCM-Generator'
     Plugin 'mattn/emmet-vim'
+    Plugin 'vim-syntastic/syntastic'
 call vundle#end()
 filetype plugin indent on
 
