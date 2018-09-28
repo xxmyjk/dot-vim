@@ -11,6 +11,7 @@ call vundle#begin()
     Plugin 'rdnetto/YCM-Generator'
     Plugin 'mattn/emmet-vim'
     Plugin 'vim-syntastic/syntastic'
+    Plugin 'airblade/vim-gitgutter'
 call vundle#end()
 filetype plugin indent on
 
