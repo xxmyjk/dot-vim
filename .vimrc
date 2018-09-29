@@ -12,6 +12,7 @@ call vundle#begin()
     Plugin 'mattn/emmet-vim'
     Plugin 'vim-syntastic/syntastic'
     Plugin 'airblade/vim-gitgutter'
+    Plugin 'Yggdroot/LeaderF'
 call vundle#end()
 filetype plugin indent on
 
