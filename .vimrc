@@ -6,7 +6,7 @@ call vundle#begin()
     Plugin 'VundleVim/Vundle.vim'
     Plugin 'molokai'
     Plugin 'The-NERD-tree'
-    Plugin 'webBrowser'
+    " Plugin 'webBrowser'
     Plugin 'tpope/vim-sleuth'
     Plugin 'Xuyuanp/nerdtree-git-plugin'
     Plugin 'Valloric/YouCompleteMe'
