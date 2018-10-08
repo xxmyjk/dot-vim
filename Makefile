@@ -1,2 +1,2 @@
 install: .vimrc
-	cp .vimrc ${HOME}
+	cp .vimrc ${HOME} && vim -c "PluginInstall"
